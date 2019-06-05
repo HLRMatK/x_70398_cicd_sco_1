@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "category": "e0355b31ef303000a61d5a3615c0fb78",
+  "description": null,
+  "device_type": "browser",
+  "hint": null,
+  "name": "Scoop",
+  "order": 100,
+  "roles": "x_70398_cicd_sco_1.user",
+  "sys_class_name": "sys_app_application",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-05 12:01:58",
+  "sys_id": "d43964eedbb133001ac4a565ca96191c",
+  "sys_mod_count": 1,
+  "sys_name": "Scoop",
+  "sys_package": "e2976862dbb133001ac4a565ca961917",
+  "sys_policy": null,
+  "sys_scope": "e2976862dbb133001ac4a565ca961917",
+  "sys_update_name": "sys_app_application_d43964eedbb133001ac4a565ca96191c",
+  "sys_updated_by": "admin",
+  "title": "Scoop",
+  "view_name": null
+}

@@ -1,0 +1,22 @@
+{
+  "element": null,
+  "help": null,
+  "hint": null,
+  "label": "Scoop",
+  "language": "en",
+  "name": "x_70398_cicd_sco_1_scoop",
+  "plural": "Scoops",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-05 12:01:59",
+  "sys_id": "683964eedbb133001ac4a565ca961980",
+  "sys_mod_count": 0,
+  "sys_name": "Scoop",
+  "sys_package": "e2976862dbb133001ac4a565ca961917",
+  "sys_policy": null,
+  "sys_scope": "e2976862dbb133001ac4a565ca961917",
+  "sys_update_name": "sys_documentation_x_70398_cicd_sco_1_scoop__en",
+  "sys_updated_by": "admin",
+  "url": null,
+  "url_target": null
+}
