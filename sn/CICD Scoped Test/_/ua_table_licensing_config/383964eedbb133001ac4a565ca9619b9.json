@@ -1,0 +1,22 @@
+{
+  "is_fulfillment": false,
+  "license_condition": null,
+  "license_model": "none",
+  "license_roles": null,
+  "name": "x_70398_cicd_sco_1_scoop",
+  "op_delete": true,
+  "op_insert": true,
+  "op_update": true,
+  "owner_condition": null,
+  "sys_class_name": "ua_table_licensing_config",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-05 12:01:59",
+  "sys_id": "383964eedbb133001ac4a565ca9619b9",
+  "sys_mod_count": 0,
+  "sys_name": "x_70398_cicd_sco_1_scoop",
+  "sys_package": "e2976862dbb133001ac4a565ca961917",
+  "sys_policy": null,
+  "sys_scope": "e2976862dbb133001ac4a565ca961917",
+  "sys_update_name": "ua_table_licensing_config_383964eedbb133001ac4a565ca9619b9",
+  "sys_updated_by": "admin"
+}
