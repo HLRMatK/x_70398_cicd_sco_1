@@ -1,0 +1,15 @@
+{
+  "order": 1000,
+  "role": null,
+  "sys_class_name": "sys_embedded_help_role",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-05 12:01:58",
+  "sys_id": "503964eedbb133001ac4a565ca961917",
+  "sys_mod_count": 0,
+  "sys_name": "543964eedbb133001ac4a565ca961914",
+  "sys_package": "e2976862dbb133001ac4a565ca961917",
+  "sys_policy": null,
+  "sys_scope": "e2976862dbb133001ac4a565ca961917",
+  "sys_update_name": "sys_embedded_help_role_503964eedbb133001ac4a565ca961917",
+  "sys_updated_by": "admin"
+}

@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": null,
+  "description": "Default access control on x_70398_cicd_sco_1_scoop",
+  "name": "x_70398_cicd_sco_1_scoop",
+  "operation": "write",
+  "script": null,
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-05 12:01:59",
+  "sys_id": "2c3964eedbb133001ac4a565ca961946",
+  "sys_mod_count": 0,
+  "sys_name": "x_70398_cicd_sco_1_scoop",
+  "sys_package": "e2976862dbb133001ac4a565ca961917",
+  "sys_policy": null,
+  "sys_scope": "e2976862dbb133001ac4a565ca961917",
+  "sys_update_name": "sys_security_acl_2c3964eedbb133001ac4a565ca961946",
+  "sys_updated_by": "admin",
+  "type": "record"
+}
