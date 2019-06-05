@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-06-05 12:09:44">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</application>
+<application_name>CICD Scoped Test</application_name>
+<application_scope>x_70398_cicd_sco_1</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>CICD Scoped Test – 1.0.0</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>3fdaa462dbf133001ac4a565ca961945</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin.cicd</sys_created_by>
+<sys_created_on>2019-06-05 12:09:43</sys_created_on>
+<sys_id>f5fae822dbf133001ac4a565ca9619ea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin.cicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:09:43</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_70398_cicd_sco_1_scoop_null</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="" extends="task" table="x_70398_cicd_sco_1_scoop"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element/&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Collection"&gt;collection&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;x_70398_cicd_sco_1_scoop&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-06-05 12:01:59&lt;/sys_created_on&gt;&lt;sys_id&gt;ec3964eedbb133001ac4a565ca961951&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;x_70398_cicd_sco_1_scoop&lt;/sys_name&gt;&lt;sys_package display_value="CICD Scoped Test" source="x_70398_cicd_sco_1"&gt;e2976862dbb133001ac4a565ca961917&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="CICD Scoped Test"&gt;e2976862dbb133001ac4a565ca961917&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_70398_cicd_sco_1_scoop_null&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-06-05 12:01:59&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1934050132</payload_hash>
+<remote_update_set display_value="CICD Scoped Test – 1.0.0">f5fae822dbf133001ac4a565ca9619ea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin.cicd</sys_created_by>
+<sys_created_on>2019-06-05 12:09:43</sys_created_on>
+<sys_id>31faa862dbf133001ac4a565ca961934</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278b240a0000001</sys_recorded_at>
+<sys_updated_by>admin.cicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:09:43</sys_updated_on>
+<table>x_70398_cicd_sco_1_scoop</table>
+<target_name>Scoop</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>bfdae46273f13300b44c2659164c4fdb</update_guid>
+<update_guid_history>bfdae46273f13300b44c2659164c4fdb:1934050132,343964ee1eb13300da4718eaa20273bc:1934050132</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_543964eedbb133001ac4a565ca961914</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="DELETE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><encryption_context/><grantable>true</grantable><includes_roles/><name>x_70398_cicd_sco_1.scoop_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>scoop_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-05 12:01:58</sys_created_on><sys_id>543964eedbb133001ac4a565ca961914</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_70398_cicd_sco_1.scoop_user</sys_name><sys_package display_value="CICD Scoped Test" source="x_70398_cicd_sco_1">e2976862dbb133001ac4a565ca961917</sys_package><sys_policy/><sys_scope display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</sys_scope><sys_update_name>sys_user_role_543964eedbb133001ac4a565ca961914</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-05 12:01:58</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>1938853443</payload_hash>
+<remote_update_set display_value="CICD Scoped Test – 1.0.0">f5fae822dbf133001ac4a565ca9619ea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin.cicd</sys_created_by>
+<sys_created_on>2019-06-05 12:09:43</sys_created_on>
+<sys_id>31faa862dbf133001ac4a565ca961937</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278b22920000001</sys_recorded_at>
+<sys_updated_by>admin.cicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:09:43</sys_updated_on>
+<table/>
+<target_name>x_70398_cicd_sco_1.scoop_user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>b3daa4629ef13300c0521ed5568ffb4a</update_guid>
+<update_guid_history>b3daa4629ef13300c0521ed5568ffb4a:1938853443,7bb9242262f13300c970061169624a9f:1938853443,9c3964ee26b13300dcb4a14c0b5b1317:233216975</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_103964eedbb133001ac4a565ca96191f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Scoop">d43964eedbb133001ac4a565ca96191c</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Scoops</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_70398_cicd_sco_1_scoop</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-05 12:01:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>103964eedbb133001ac4a565ca96191f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Scoops</sys_name><sys_overrides/><sys_package display_value="CICD Scoped Test" source="x_70398_cicd_sco_1">e2976862dbb133001ac4a565ca961917</sys_package><sys_policy/><sys_scope display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</sys_scope><sys_update_name>sys_app_module_103964eedbb133001ac4a565ca96191f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-05 12:01:58</sys_updated_on><timeline_page/><title>Scoops</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>-1463211433</payload_hash>
+<remote_update_set display_value="CICD Scoped Test – 1.0.0">f5fae822dbf133001ac4a565ca9619ea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin.cicd</sys_created_by>
+<sys_created_on>2019-06-05 12:09:43</sys_created_on>
+<sys_id>31fae822dbf133001ac4a565ca9619eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278b22c70000001</sys_recorded_at>
+<sys_updated_by>admin.cicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:09:43</sys_updated_on>
+<table>x_70398_cicd_sco_1_scoop</table>
+<target_name>Scoops</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>33daa46240f1330005ae0729b0228a4f</update_guid>
+<update_guid_history>33daa46240f1330005ae0729b0228a4f:-1463211433,50f9282214f13300877ff54a15d7d69c:-1463211433,d83964eeb9b13300fabef778032de020:1253280048</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_7f59a8eedbb133001ac4a565ca9619c6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-05 12:02:57</sys_created_on><sys_id>7f59a8eedbb133001ac4a565ca9619c6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_70398_cicd_sco_1_scoop.x_70398_cicd_sco_1.user</sys_name><sys_package display_value="CICD Scoped Test" source="x_70398_cicd_sco_1">e2976862dbb133001ac4a565ca961917</sys_package><sys_policy/><sys_scope display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</sys_scope><sys_security_acl display_value="x_70398_cicd_sco_1_scoop">2c3964eedbb133001ac4a565ca961946</sys_security_acl><sys_update_name>sys_security_acl_role_7f59a8eedbb133001ac4a565ca9619c6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-05 12:02:57</sys_updated_on><sys_user_role display_value="x_70398_cicd_sco_1.user" name="x_70398_cicd_sco_1.user">cec72c6edbb133001ac4a565ca9619c1</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>250237176</payload_hash>
+<remote_update_set display_value="CICD Scoped Test – 1.0.0">f5fae822dbf133001ac4a565ca9619ea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin.cicd</sys_created_by>
+<sys_created_on>2019-06-05 12:09:43</sys_created_on>
+<sys_id>35faa862dbf133001ac4a565ca961936</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278b233c0000001</sys_recorded_at>
+<sys_updated_by>admin.cicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:09:43</sys_updated_on>
+<table>x_70398_cicd_sco_1_scoop</table>
+<target_name>x_70398_cicd_sco_1_scoop.x_70398_cicd_sco_1.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>bbdae4629ff13300b3454129b1c01fcd</update_guid>
+<update_guid_history>bbdae4629ff13300b3454129b1c01fcd:250237176,72692cee3eb1330070ff1d74ec86ada3:250237176</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_30a9aceedbb133001ac4a565ca961933</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-05 12:04:03</sys_created_on><sys_id>30a9aceedbb133001ac4a565ca961933</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_70398_cicd_sco_1_scoop.x_70398_cicd_sco_1.user</sys_name><sys_package display_value="CICD Scoped Test" source="x_70398_cicd_sco_1">e2976862dbb133001ac4a565ca961917</sys_package><sys_policy/><sys_scope display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</sys_scope><sys_security_acl display_value="x_70398_cicd_sco_1_scoop">e83964eedbb133001ac4a565ca961921</sys_security_acl><sys_update_name>sys_security_acl_role_30a9aceedbb133001ac4a565ca961933</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-05 12:04:03</sys_updated_on><sys_user_role display_value="x_70398_cicd_sco_1.user" name="x_70398_cicd_sco_1.user">cec72c6edbb133001ac4a565ca9619c1</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>64458103</payload_hash>
+<remote_update_set display_value="CICD Scoped Test – 1.0.0">f5fae822dbf133001ac4a565ca9619ea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin.cicd</sys_created_by>
+<sys_created_on>2019-06-05 12:09:43</sys_created_on>
+<sys_id>39faa862dbf133001ac4a565ca961935</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278b231b0000001</sys_recorded_at>
+<sys_updated_by>admin.cicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:09:43</sys_updated_on>
+<table>x_70398_cicd_sco_1_scoop</table>
+<target_name>x_70398_cicd_sco_1_scoop.x_70398_cicd_sco_1.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>ffdae46273f1330022d84ad111936aca</update_guid>
+<update_guid_history>ffdae46273f1330022d84ad111936aca:64458103,7ea96022a9f1330085ea203473e7fdc0:64458103</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_2c3964eedbb133001ac4a565ca961946</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_70398_cicd_sco_1_scoop</description><name>x_70398_cicd_sco_1_scoop</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-05 12:01:59</sys_created_on><sys_id>2c3964eedbb133001ac4a565ca961946</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_70398_cicd_sco_1_scoop</sys_name><sys_package display_value="CICD Scoped Test" source="x_70398_cicd_sco_1">e2976862dbb133001ac4a565ca961917</sys_package><sys_policy/><sys_scope display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</sys_scope><sys_update_name>sys_security_acl_2c3964eedbb133001ac4a565ca961946</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-05 12:01:59</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1293158067</payload_hash>
+<remote_update_set display_value="CICD Scoped Test – 1.0.0">f5fae822dbf133001ac4a565ca9619ea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin.cicd</sys_created_by>
+<sys_created_on>2019-06-05 12:09:43</sys_created_on>
+<sys_id>3dfaa862dbf133001ac4a565ca961934</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278b22da0000001</sys_recorded_at>
+<sys_updated_by>admin.cicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:09:43</sys_updated_on>
+<table>x_70398_cicd_sco_1_scoop</table>
+<target_name>x_70398_cicd_sco_1_scoop</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>3bdaa4620af13300eefb1d9be582ec50</update_guid>
+<update_guid_history>3bdaa4620af13300eefb1d9be582ec50:1293158067,ac3964eee6b1330001e92b7245a0e248:1293158067</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_7689e4eedbb133001ac4a565ca961981</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-05 12:03:44</sys_created_on><sys_id>7689e4eedbb133001ac4a565ca961981</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_70398_cicd_sco_1_scoop.admin</sys_name><sys_package display_value="CICD Scoped Test" source="x_70398_cicd_sco_1">e2976862dbb133001ac4a565ca961917</sys_package><sys_policy/><sys_scope display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</sys_scope><sys_security_acl display_value="x_70398_cicd_sco_1_scoop">a43964eedbb133001ac4a565ca96194c</sys_security_acl><sys_update_name>sys_security_acl_role_7689e4eedbb133001ac4a565ca961981</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-05 12:03:44</sys_updated_on><sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>567693824</payload_hash>
+<remote_update_set display_value="CICD Scoped Test – 1.0.0">f5fae822dbf133001ac4a565ca9619ea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin.cicd</sys_created_by>
+<sys_created_on>2019-06-05 12:09:43</sys_created_on>
+<sys_id>71faa862dbf133001ac4a565ca961936</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278b232c0000001</sys_recorded_at>
+<sys_updated_by>admin.cicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:09:43</sys_updated_on>
+<table>x_70398_cicd_sco_1_scoop</table>
+<target_name>x_70398_cicd_sco_1_scoop.admin</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>77dae46246f13300c5be3be3ea97efcc</update_guid>
+<update_guid_history>77dae46246f13300c5be3be3ea97efcc:567693824,96992022ccf133007261891c444e1f96:567693824</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_e83964eedbb133001ac4a565ca961921</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_70398_cicd_sco_1_scoop</description><name>x_70398_cicd_sco_1_scoop</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-05 12:01:58</sys_created_on><sys_id>e83964eedbb133001ac4a565ca961921</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_70398_cicd_sco_1_scoop</sys_name><sys_package display_value="CICD Scoped Test" source="x_70398_cicd_sco_1">e2976862dbb133001ac4a565ca961917</sys_package><sys_policy/><sys_scope display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</sys_scope><sys_update_name>sys_security_acl_e83964eedbb133001ac4a565ca961921</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-05 12:01:58</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1172960803</payload_hash>
+<remote_update_set display_value="CICD Scoped Test – 1.0.0">f5fae822dbf133001ac4a565ca9619ea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin.cicd</sys_created_by>
+<sys_created_on>2019-06-05 12:09:43</sys_created_on>
+<sys_id>75faa862dbf133001ac4a565ca961935</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278b230a0000001</sys_recorded_at>
+<sys_updated_by>admin.cicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:09:43</sys_updated_on>
+<table>x_70398_cicd_sco_1_scoop</table>
+<target_name>x_70398_cicd_sco_1_scoop</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>b7dae4624bf13300bc52e94735b337c9</update_guid>
+<update_guid_history>b7dae4624bf13300bc52e94735b337c9:1172960803,603964ee00b13300beae2f2a0727693d:1172960803</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</application>
+<category>customer</category>
+<comments/>
+<name>sys_embedded_help_role_73d7206adbb133001ac4a565ca9619bf</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role"><sys_embedded_help_role action="INSERT_OR_UPDATE"><order>1000</order><role display_value="x_70398_cicd_sco_1.user" name="x_70398_cicd_sco_1.user">cec72c6edbb133001ac4a565ca9619c1</role><sys_class_name>sys_embedded_help_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-05 11:56:12</sys_created_on><sys_id>73d7206adbb133001ac4a565ca9619bf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>cec72c6edbb133001ac4a565ca9619c1</sys_name><sys_package display_value="CICD Scoped Test" source="x_70398_cicd_sco_1">e2976862dbb133001ac4a565ca961917</sys_package><sys_policy/><sys_scope display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</sys_scope><sys_update_name>sys_embedded_help_role_73d7206adbb133001ac4a565ca9619bf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-05 11:56:12</sys_updated_on></sys_embedded_help_role></record_update>]]></payload>
+<payload_hash>-965888993</payload_hash>
+<remote_update_set display_value="CICD Scoped Test – 1.0.0">f5fae822dbf133001ac4a565ca9619ea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin.cicd</sys_created_by>
+<sys_created_on>2019-06-05 12:09:43</sys_created_on>
+<sys_id>79faa862dbf133001ac4a565ca961934</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278b237f0000001</sys_recorded_at>
+<sys_updated_by>admin.cicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:09:43</sys_updated_on>
+<table/>
+<target_name>cec72c6edbb133001ac4a565ca9619c1</target_name>
+<type>Embedded Help Role Priority</type>
+<update_domain>global</update_domain>
+<update_guid>bfdae46227f13300530a612b9cb383d2</update_guid>
+<update_guid_history>bfdae46227f13300530a612b9cb383d2:-965888993,68f720aeabb1330071b4be98ba1685d6:-965888993</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</application>
+<category>customer</category>
+<comments/>
+<name>ua_table_licensing_config_383964eedbb133001ac4a565ca9619b9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_70398_cicd_sco_1_scoop</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-05 12:01:59</sys_created_on><sys_id>383964eedbb133001ac4a565ca9619b9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_70398_cicd_sco_1_scoop</sys_name><sys_package display_value="CICD Scoped Test" source="x_70398_cicd_sco_1">e2976862dbb133001ac4a565ca961917</sys_package><sys_policy/><sys_scope display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</sys_scope><sys_update_name>ua_table_licensing_config_383964eedbb133001ac4a565ca9619b9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-05 12:01:59</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+<payload_hash>-914362922</payload_hash>
+<remote_update_set display_value="CICD Scoped Test – 1.0.0">f5fae822dbf133001ac4a565ca9619ea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin.cicd</sys_created_by>
+<sys_created_on>2019-06-05 12:09:43</sys_created_on>
+<sys_id>79faa862dbf133001ac4a565ca961937</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278b235e0000001</sys_recorded_at>
+<sys_updated_by>admin.cicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:09:43</sys_updated_on>
+<table/>
+<target_name>x_70398_cicd_sco_1_scoop</target_name>
+<type>Table Subscription Configuration</type>
+<update_domain>global</update_domain>
+<update_guid>77dae4620df133009c76fd97c2f736d0</update_guid>
+<update_guid_history>77dae4620df133009c76fd97c2f736d0:-914362922,b83964ee54b13300be55f288a190b5ba:-914362922</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_e209a0eedbb133001ac4a565ca96198b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Scoop</label><live_feed_enabled>false</live_feed_enabled><name>x_70398_cicd_sco_1_scoop</name><number_ref/><provider_class/><read_access>true</read_access><super_class display_value="Task" name="task">29c855b47420330078509adcc48c8788</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-05 12:01:58</sys_created_on><sys_id>e209a0eedbb133001ac4a565ca96198b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Scoop</sys_name><sys_package display_value="CICD Scoped Test" source="x_70398_cicd_sco_1">e2976862dbb133001ac4a565ca961917</sys_package><sys_policy/><sys_scope display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</sys_scope><sys_update_name>sys_db_object_e209a0eedbb133001ac4a565ca96198b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-05 12:01:58</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>1994546295</payload_hash>
+<remote_update_set display_value="CICD Scoped Test – 1.0.0">f5fae822dbf133001ac4a565ca9619ea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin.cicd</sys_created_by>
+<sys_created_on>2019-06-05 12:09:43</sys_created_on>
+<sys_id>7dfaa862dbf133001ac4a565ca961933</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278b23d00000001</sys_recorded_at>
+<sys_updated_by>admin.cicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:09:43</sys_updated_on>
+<table>x_70398_cicd_sco_1_scoop</table>
+<target_name>Scoop</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>7fdae462a8f13300d56ff2abfef573d8</update_guid>
+<update_guid_history>7fdae462a8f13300d56ff2abfef573d8:1994546295,f83964eecab13300698469be04f1c6be:-867376242,f83964eecab13300698469be04f1c6be:-867376242</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_ec3964eedbb133001ac4a565ca96193d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="DELETE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-05 12:01:58</sys_created_on><sys_id>ec3964eedbb133001ac4a565ca96193d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_70398_cicd_sco_1_scoop.x_70398_cicd_sco_1.scoop_user</sys_name><sys_package display_value="CICD Scoped Test" source="x_70398_cicd_sco_1">e2976862dbb133001ac4a565ca961917</sys_package><sys_policy/><sys_scope display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</sys_scope><sys_security_acl display_value="x_70398_cicd_sco_1_scoop">e83964eedbb133001ac4a565ca961921</sys_security_acl><sys_update_name>sys_security_acl_role_ec3964eedbb133001ac4a565ca96193d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-05 12:01:58</sys_updated_on><sys_user_role display_value="x_70398_cicd_sco_1.scoop_user" name="x_70398_cicd_sco_1.scoop_user">543964eedbb133001ac4a565ca961914</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>805979498</payload_hash>
+<remote_update_set display_value="CICD Scoped Test – 1.0.0">f5fae822dbf133001ac4a565ca9619ea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin.cicd</sys_created_by>
+<sys_created_on>2019-06-05 12:09:43</sys_created_on>
+<sys_id>7dfaa862dbf133001ac4a565ca961936</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278b22b60000001</sys_recorded_at>
+<sys_updated_by>admin.cicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:09:43</sys_updated_on>
+<table>x_70398_cicd_sco_1_scoop</table>
+<target_name>x_70398_cicd_sco_1_scoop.x_70398_cicd_sco_1.scoop_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>3bdaa462dbf133000469c8f7e297704d</update_guid>
+<update_guid_history>3bdaa462dbf133000469c8f7e297704d:805979498,b6a9602211f1330057566191f8158dbc:805979498,243964eeb3b133002572451b5d283940:231073014</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_e2976862dbb133001ac4a565ca961917</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>false</can_edit_in_studio><enforce_license>none</enforce_license><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_model>none</license_model><logo/><menu/><name>CICD Scoped Test</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_70398_cicd_sco_1</scope><scoped_administration>false</scoped_administration><short_description/><source>x_70398_cicd_sco_1</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-05 11:55:02</sys_created_on><sys_id>e2976862dbb133001ac4a565ca961917</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-05 11:55:02</sys_updated_on><template/><trackable>true</trackable><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></payload>
+<payload_hash>-1790099023</payload_hash>
+<remote_update_set display_value="CICD Scoped Test – 1.0.0">f5fae822dbf133001ac4a565ca9619ea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin.cicd</sys_created_by>
+<sys_created_on>2019-06-05 12:09:43</sys_created_on>
+<sys_id>7dfae822dbf133001ac4a565ca9619ea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278b22750000001</sys_recorded_at>
+<sys_updated_by>admin.cicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:09:43</sys_updated_on>
+<table/>
+<target_name>CICD Scoped Test</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>bbdaa46223f1330013ba24e333d51447</update_guid>
+<update_guid_history>bbdaa46223f1330013ba24e333d51447:-1790099023,ba97686ea1b13300b1bbecd8a7c81798:-1790099023</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_a43964eedbb133001ac4a565ca96194c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_70398_cicd_sco_1_scoop</description><name>x_70398_cicd_sco_1_scoop</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-05 12:01:59</sys_created_on><sys_id>a43964eedbb133001ac4a565ca96194c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_70398_cicd_sco_1_scoop</sys_name><sys_package display_value="CICD Scoped Test" source="x_70398_cicd_sco_1">e2976862dbb133001ac4a565ca961917</sys_package><sys_policy/><sys_scope display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</sys_scope><sys_update_name>sys_security_acl_a43964eedbb133001ac4a565ca96194c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-05 12:01:59</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1860947589</payload_hash>
+<remote_update_set display_value="CICD Scoped Test – 1.0.0">f5fae822dbf133001ac4a565ca9619ea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin.cicd</sys_created_by>
+<sys_created_on>2019-06-05 12:09:43</sys_created_on>
+<sys_id>b1faa862dbf133001ac4a565ca961935</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278b22fb0000001</sys_recorded_at>
+<sys_updated_by>admin.cicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:09:43</sys_updated_on>
+<table>x_70398_cicd_sco_1_scoop</table>
+<target_name>x_70398_cicd_sco_1_scoop</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>b3dae462f2f133006569eb5972d138c8</update_guid>
+<update_guid_history>b3dae462f2f133006569eb5972d138c8:1860947589,283964ee2ab13300543525bfb305984e:1860947589</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</application>
+<category>customer</category>
+<comments/>
+<name>sys_embedded_help_role_503964eedbb133001ac4a565ca961917</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role"><sys_embedded_help_role action="INSERT_OR_UPDATE"><order>1000</order><role/><sys_class_name>sys_embedded_help_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-05 12:01:58</sys_created_on><sys_id>503964eedbb133001ac4a565ca961917</sys_id><sys_mod_count>0</sys_mod_count><sys_name>543964eedbb133001ac4a565ca961914</sys_name><sys_package display_value="CICD Scoped Test" source="x_70398_cicd_sco_1">e2976862dbb133001ac4a565ca961917</sys_package><sys_policy/><sys_scope display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</sys_scope><sys_update_name>sys_embedded_help_role_503964eedbb133001ac4a565ca961917</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-05 12:01:58</sys_updated_on></sys_embedded_help_role></record_update>]]></payload>
+<payload_hash>1723742788</payload_hash>
+<remote_update_set display_value="CICD Scoped Test – 1.0.0">f5fae822dbf133001ac4a565ca9619ea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin.cicd</sys_created_by>
+<sys_created_on>2019-06-05 12:09:43</sys_created_on>
+<sys_id>b5faa862dbf133001ac4a565ca961934</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278b236f0000001</sys_recorded_at>
+<sys_updated_by>admin.cicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:09:43</sys_updated_on>
+<table/>
+<target_name/>
+<type>Embedded Help Role Priority</type>
+<update_domain>global</update_domain>
+<update_guid>bbdae462d0f1330025a4d4d760c013d1</update_guid>
+<update_guid_history>bbdae462d0f1330025a4d4d760c013d1:1723742788,1bb9242254f1330003cf6de0c454f22e:1723742788</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</application>
+<category>customer</category>
+<comments/>
+<name>sys_wizard_answer_e83964eedbb133001ac4a565ca96197e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Scoop</answer><button_label/><dependent_value/><element/><name>Scoop</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">2dc855b47420330078509adcc48c8789</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-05 12:01:59</sys_created_on><sys_id>e83964eedbb133001ac4a565ca96197e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Scoop</sys_name><sys_package display_value="CICD Scoped Test" source="x_70398_cicd_sco_1">e2976862dbb133001ac4a565ca961917</sys_package><sys_policy/><sys_scope display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</sys_scope><sys_update_name>sys_wizard_answer_e83964eedbb133001ac4a565ca96197e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-05 12:01:59</sys_updated_on><table/><target_url>x_70398_cicd_sco_1_scoop.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+<payload_hash>1844677734</payload_hash>
+<remote_update_set display_value="CICD Scoped Test – 1.0.0">f5fae822dbf133001ac4a565ca9619ea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin.cicd</sys_created_by>
+<sys_created_on>2019-06-05 12:09:43</sys_created_on>
+<sys_id>b5faa862dbf133001ac4a565ca961937</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278b23f10000001</sys_recorded_at>
+<sys_updated_by>admin.cicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:09:43</sys_updated_on>
+<table/>
+<target_name>Scoop</target_name>
+<type>Answer</type>
+<update_domain>global</update_domain>
+<update_guid>77dae46283f13300c82dfad338c0e2da</update_guid>
+<update_guid_history>77dae46283f13300c82dfad338c0e2da:1844677734,e8f9a822c7f1330053a5932714d4f027:1844677734</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_e83964eedbb133001ac4a565ca961949</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="DELETE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-05 12:01:59</sys_created_on><sys_id>e83964eedbb133001ac4a565ca961949</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_70398_cicd_sco_1_scoop.x_70398_cicd_sco_1.scoop_user</sys_name><sys_package display_value="CICD Scoped Test" source="x_70398_cicd_sco_1">e2976862dbb133001ac4a565ca961917</sys_package><sys_policy/><sys_scope display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</sys_scope><sys_security_acl display_value="x_70398_cicd_sco_1_scoop">2c3964eedbb133001ac4a565ca961946</sys_security_acl><sys_update_name>sys_security_acl_role_e83964eedbb133001ac4a565ca961949</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-05 12:01:59</sys_updated_on><sys_user_role display_value="x_70398_cicd_sco_1.scoop_user" name="x_70398_cicd_sco_1.scoop_user">543964eedbb133001ac4a565ca961914</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>773246827</payload_hash>
+<remote_update_set display_value="CICD Scoped Test – 1.0.0">f5fae822dbf133001ac4a565ca9619ea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin.cicd</sys_created_by>
+<sys_created_on>2019-06-05 12:09:43</sys_created_on>
+<sys_id>b9faa862dbf133001ac4a565ca961936</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278b22850000001</sys_recorded_at>
+<sys_updated_by>admin.cicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:09:43</sys_updated_on>
+<table>x_70398_cicd_sco_1_scoop</table>
+<target_name>x_70398_cicd_sco_1_scoop.x_70398_cicd_sco_1.scoop_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>ffdaa4624af13300fa748f57c0474948</update_guid>
+<update_guid_history>ffdaa4624af13300fa748f57c0474948:773246827,ba692ceec5b13300284ff5208d25db9d:773246827,683964ee92b133003b9159be76067d4b:198340343</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_d43964eedbb133001ac4a565ca96191c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>Scoop</name><order>100</order><roles>x_70398_cicd_sco_1.user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-05 12:01:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d43964eedbb133001ac4a565ca96191c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Scoop</sys_name><sys_overrides/><sys_package display_value="CICD Scoped Test" source="x_70398_cicd_sco_1">e2976862dbb133001ac4a565ca961917</sys_package><sys_policy/><sys_scope display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</sys_scope><sys_update_name>sys_app_application_d43964eedbb133001ac4a565ca96191c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-05 12:04:40</sys_updated_on><title>Scoop</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>-699786772</payload_hash>
+<remote_update_set display_value="CICD Scoped Test – 1.0.0">f5fae822dbf133001ac4a565ca9619ea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin.cicd</sys_created_by>
+<sys_created_on>2019-06-05 12:09:43</sys_created_on>
+<sys_id>b9fae822dbf133001ac4a565ca9619ea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278b23b60000001</sys_recorded_at>
+<sys_updated_by>admin.cicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:09:43</sys_updated_on>
+<table/>
+<target_name>Scoop</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>37dae462e4f133005300b5b9cb07b8d7</update_guid>
+<update_guid_history>37dae462e4f133005300b5b9cb07b8d7:-699786772,3bc9202253f13300f14212fb55dd8a4c:-699786772,d03964ee9cb13300e8b14101f6802b1e:812402443</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_643964eedbb133001ac4a565ca96194f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="DELETE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-05 12:01:59</sys_created_on><sys_id>643964eedbb133001ac4a565ca96194f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_70398_cicd_sco_1_scoop.x_70398_cicd_sco_1.scoop_user</sys_name><sys_package display_value="CICD Scoped Test" source="x_70398_cicd_sco_1">e2976862dbb133001ac4a565ca961917</sys_package><sys_policy/><sys_scope display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</sys_scope><sys_security_acl display_value="x_70398_cicd_sco_1_scoop">a43964eedbb133001ac4a565ca96194c</sys_security_acl><sys_update_name>sys_security_acl_role_643964eedbb133001ac4a565ca96194f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-05 12:01:59</sys_updated_on><sys_user_role display_value="x_70398_cicd_sco_1.scoop_user" name="x_70398_cicd_sco_1.scoop_user">543964eedbb133001ac4a565ca961914</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1082859866</payload_hash>
+<remote_update_set display_value="CICD Scoped Test – 1.0.0">f5fae822dbf133001ac4a565ca9619ea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin.cicd</sys_created_by>
+<sys_created_on>2019-06-05 12:09:43</sys_created_on>
+<sys_id>bdfaa862dbf133001ac4a565ca961935</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278b229d0000001</sys_recorded_at>
+<sys_updated_by>admin.cicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:09:43</sys_updated_on>
+<table>x_70398_cicd_sco_1_scoop</table>
+<target_name>x_70398_cicd_sco_1_scoop.x_70398_cicd_sco_1.scoop_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>37daa46269f133003e15fd20c5653f4b</update_guid>
+<update_guid_history>37daa46269f133003e15fd20c5653f4b:1082859866,de99202278f13300f83b273748ae7c91:1082859866,e03964eeeab13300278f7851293d3e51:507953382</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_70398_cicd_sco_1_scoop__en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="" label="Scoop" language="en" table="x_70398_cicd_sco_1_scoop"><sys_documentation action="INSERT_OR_UPDATE"><element/><help/><hint/><label>Scoop</label><language>en</language><name>x_70398_cicd_sco_1_scoop</name><plural>Scoops</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-05 12:01:59</sys_created_on><sys_id>683964eedbb133001ac4a565ca961980</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Scoop</sys_name><sys_package display_value="CICD Scoped Test" source="x_70398_cicd_sco_1">e2976862dbb133001ac4a565ca961917</sys_package><sys_policy/><sys_scope display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</sys_scope><sys_update_name>sys_documentation_x_70398_cicd_sco_1_scoop__en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-05 12:01:59</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>1986504085</payload_hash>
+<remote_update_set display_value="CICD Scoped Test – 1.0.0">f5fae822dbf133001ac4a565ca9619ea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin.cicd</sys_created_by>
+<sys_created_on>2019-06-05 12:09:43</sys_created_on>
+<sys_id>f1faa862dbf133001ac4a565ca961934</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278b238f0000001</sys_recorded_at>
+<sys_updated_by>admin.cicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:09:43</sys_updated_on>
+<table>x_70398_cicd_sco_1_scoop</table>
+<target_name>Scoop</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>b7dae46204f13300a8875ff2622335d4</update_guid>
+<update_guid_history>b7dae46204f13300a8875ff2622335d4:1986504085,f43964eedbb13300a8a0522200a3a4bd:1986504085</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_cec72c6edbb133001ac4a565ca9619c1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><encryption_context/><grantable>true</grantable><includes_roles/><name>x_70398_cicd_sco_1.user</name><requires_subscription>0</requires_subscription><scoped_admin>false</scoped_admin><suffix>user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-05 11:56:11</sys_created_on><sys_id>cec72c6edbb133001ac4a565ca9619c1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_70398_cicd_sco_1.user</sys_name><sys_package display_value="CICD Scoped Test" source="x_70398_cicd_sco_1">e2976862dbb133001ac4a565ca961917</sys_package><sys_policy/><sys_scope display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</sys_scope><sys_update_name>sys_user_role_cec72c6edbb133001ac4a565ca9619c1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-05 11:56:11</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>-1730808650</payload_hash>
+<remote_update_set display_value="CICD Scoped Test – 1.0.0">f5fae822dbf133001ac4a565ca9619ea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin.cicd</sys_created_by>
+<sys_created_on>2019-06-05 12:09:43</sys_created_on>
+<sys_id>f1faa862dbf133001ac4a565ca961937</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278b23a40000001</sys_recorded_at>
+<sys_updated_by>admin.cicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:09:43</sys_updated_on>
+<table/>
+<target_name>x_70398_cicd_sco_1.user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>7fdae46278f13300a22cb0e7c0aaded5</update_guid>
+<update_guid_history>7fdae46278f13300a22cb0e7c0aaded5:-1730808650,ffd7206ac2b133008320d715694451bf:-1730808650</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_de79aceedbb133001ac4a565ca96192b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-05 12:03:19</sys_created_on><sys_id>de79aceedbb133001ac4a565ca96192b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_70398_cicd_sco_1_scoop.x_70398_cicd_sco_1.user</sys_name><sys_package display_value="CICD Scoped Test" source="x_70398_cicd_sco_1">e2976862dbb133001ac4a565ca961917</sys_package><sys_policy/><sys_scope display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</sys_scope><sys_security_acl display_value="x_70398_cicd_sco_1_scoop">a03964eedbb133001ac4a565ca961941</sys_security_acl><sys_update_name>sys_security_acl_role_de79aceedbb133001ac4a565ca96192b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-05 12:03:19</sys_updated_on><sys_user_role display_value="x_70398_cicd_sco_1.user" name="x_70398_cicd_sco_1.user">cec72c6edbb133001ac4a565ca9619c1</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>392913329</payload_hash>
+<remote_update_set display_value="CICD Scoped Test – 1.0.0">f5fae822dbf133001ac4a565ca9619ea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin.cicd</sys_created_by>
+<sys_created_on>2019-06-05 12:09:43</sys_created_on>
+<sys_id>f5faa862dbf133001ac4a565ca961936</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278b234d0000001</sys_recorded_at>
+<sys_updated_by>admin.cicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:09:43</sys_updated_on>
+<table>x_70398_cicd_sco_1_scoop</table>
+<target_name>x_70398_cicd_sco_1_scoop.x_70398_cicd_sco_1.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>ffdae462acf133006c422f68ea3880ce</update_guid>
+<update_guid_history>ffdae462acf133006c422f68ea3880ce:392913329,8089aceea4b13300c1fe6eb0fb348897:392913329</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>DELETE</action>
+<application display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_603964eedbb133001ac4a565ca961944</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="DELETE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-05 12:01:59</sys_created_on><sys_id>603964eedbb133001ac4a565ca961944</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_70398_cicd_sco_1_scoop.x_70398_cicd_sco_1.scoop_user</sys_name><sys_package display_value="CICD Scoped Test" source="x_70398_cicd_sco_1">e2976862dbb133001ac4a565ca961917</sys_package><sys_policy/><sys_scope display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</sys_scope><sys_security_acl display_value="x_70398_cicd_sco_1_scoop">a03964eedbb133001ac4a565ca961941</sys_security_acl><sys_update_name>sys_security_acl_role_603964eedbb133001ac4a565ca961944</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-05 12:01:59</sys_updated_on><sys_user_role display_value="x_70398_cicd_sco_1.scoop_user" name="x_70398_cicd_sco_1.scoop_user">543964eedbb133001ac4a565ca961914</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>170889892</payload_hash>
+<remote_update_set display_value="CICD Scoped Test – 1.0.0">f5fae822dbf133001ac4a565ca9619ea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin.cicd</sys_created_by>
+<sys_created_on>2019-06-05 12:09:43</sys_created_on>
+<sys_id>f9faa862dbf133001ac4a565ca961935</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278b22ab0000001</sys_recorded_at>
+<sys_updated_by>admin.cicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:09:43</sys_updated_on>
+<table>x_70398_cicd_sco_1_scoop</table>
+<target_name>x_70398_cicd_sco_1_scoop.x_70398_cicd_sco_1.scoop_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>b7daa4629ef13300319a5b1e8ef7e64c</update_guid>
+<update_guid_history>b7daa4629ef13300319a5b1e8ef7e64c:170889892,c889aceeecb133001289b994f2bfa892:170889892,ec3964ee78b133006bad30ce5cf63745:-404016592</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_a03964eedbb133001ac4a565ca961941</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_70398_cicd_sco_1_scoop</description><name>x_70398_cicd_sco_1_scoop</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-05 12:01:58</sys_created_on><sys_id>a03964eedbb133001ac4a565ca961941</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_70398_cicd_sco_1_scoop</sys_name><sys_package display_value="CICD Scoped Test" source="x_70398_cicd_sco_1">e2976862dbb133001ac4a565ca961917</sys_package><sys_policy/><sys_scope display_value="CICD Scoped Test">e2976862dbb133001ac4a565ca961917</sys_scope><sys_update_name>sys_security_acl_a03964eedbb133001ac4a565ca961941</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-05 12:01:58</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>2110778863</payload_hash>
+<remote_update_set display_value="CICD Scoped Test – 1.0.0">f5fae822dbf133001ac4a565ca9619ea</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin.cicd</sys_created_by>
+<sys_created_on>2019-06-05 12:09:43</sys_created_on>
+<sys_id>fdfaa862dbf133001ac4a565ca961934</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b278b22ea0000001</sys_recorded_at>
+<sys_updated_by>admin.cicd</sys_updated_by>
+<sys_updated_on>2019-06-05 12:09:43</sys_updated_on>
+<table>x_70398_cicd_sco_1_scoop</table>
+<target_name>x_70398_cicd_sco_1_scoop</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>bfdae4620df13300a007307c7fe2a0c6</update_guid>
+<update_guid_history>bfdae4620df13300a007307c7fe2a0c6:2110778863,243964ee12b13300843d6660ee160743:2110778863</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
